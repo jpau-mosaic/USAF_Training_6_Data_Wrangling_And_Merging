@@ -5,6 +5,4 @@ dependencies:
   - pandas
   - matplotlib
   - plotly
-  - datetime
   - numpy
-  - calendar
